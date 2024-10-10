@@ -16,7 +16,7 @@
 
 - [Lección 1](https://github.com/SaulReyes-ux/Creaci-n-videojuegos/tree/main/Leccion%201)
 - [Lección 2](https://github.com/SaulReyes-ux/Creaci-n-videojuegos/tree/main/Leccion%202)
-- [Lección 3](#)
+- [Lección 3](https://github.com/SaulReyes-ux/Creaci-n-videojuegos/tree/main/Leccion%203%202d/parte%201)
 
 
 
