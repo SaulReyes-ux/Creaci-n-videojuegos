@@ -11,33 +11,25 @@
   </p>
 </p>
 
+## Datos
 
+- **Nombre del Alumno**: Saul Guadalupe Marin Reyes
+- **Grupo**: GIDS4010
+- **No. Control**: 1219100487
+- **Materia**: Creación de Videojuegos ING
+- **Unidad**: 2
+- **Prfesor**: Gabriel Barrón Rodríguez
+
+
+---
 ## Lecciones
 
 - [Lección 1](https://github.com/SaulReyes-ux/Creaci-n-videojuegos/tree/main/Leccion%201)
 - [Lección 2](https://github.com/SaulReyes-ux/Creaci-n-videojuegos/tree/main/Leccion%202)
 - [Lección 3](https://github.com/SaulReyes-ux/Creaci-n-videojuegos/tree/main/Leccion%203%202d/parte%201)
-
-
-
-## Introducción
-
-- Nombre del proyecto
-- Objetivo.
-- Plataforma ,Género, Clasificación, Personajes, Escenario.
-- Historia
-- Personajes
-- Reglas de Juego.
-- Pantallas de Juego
-- Plan de creación de VideoJuego.
-
-## Código Fuente
-
-* Lección 1
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
-* Lección 2
-  * > Tutorial
-  * > Laboratorio
+   * > [Parte 1](https://github.com/SaulReyes-ux/Creaci-n-videojuegos/tree/main/Leccion%203%202d/parte%201)
+   * > [Parte 2](https://github.com/SaulReyes-ux/Creaci-n-videojuegos/tree/main/Leccion%203%202d/parte%202)
+   * > [Parte 3](https://github.com/SaulReyes-ux/Creaci-n-videojuegos/tree/main/Leccion%203%202d/parte%203)
+   * > [Parte 4](https://github.com/SaulReyes-ux/Creaci-n-videojuegos/tree/main/Leccion%203%202d/parte%204)
+   * > [Parte 5](https://github.com/SaulReyes-ux/Creaci-n-videojuegos/tree/main/Leccion%203%202d/parte%205)
+   * > [Parte 6](https://github.com/SaulReyes-ux/Creaci-n-videojuegos/tree/main/Leccion%203%202d/parte%206)
